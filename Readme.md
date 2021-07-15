@@ -18,20 +18,34 @@
 </a>
 
 ## Stack I work with
-<code><h3>Python</h3><img height="50" src="https://cdn.svgporn.com/logos/python.svg"></code>
-<code><h3>Java</h3><img height="50" src="https://cdn.svgporn.com/logos/java.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/nvidia/nvidia-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="100px" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>Java</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>Unity</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/unity.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>.NET#</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/dotnet.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>VS Code</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>Jupyter</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
