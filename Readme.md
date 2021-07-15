@@ -18,9 +18,8 @@
 </a>
 
 ## Stack I work with
-<code><p>Python</p><img height="50" src="https://cdn.svgporn.com/logos/python.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><h3>Python</h3><img height="50" src="https://cdn.svgporn.com/logos/python.svg"></code>
+<code><h3>Java</h3><img height="50" src="https://cdn.svgporn.com/logos/java.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
