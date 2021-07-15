@@ -18,7 +18,7 @@
 </a>
 
 ## Stack I work with
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><p>Python</p><img height="50" src="https://cdn.svgporn.com/logos/python.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/julialang/julialang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
