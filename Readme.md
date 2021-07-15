@@ -24,7 +24,7 @@
     <tr valign="top">
       <td width="100px" align="center">
         <span>Python</span><br><br><br>
-        <img style="border:10px solid white;" height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img background = "white" height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="100px" align="center">
         <span>Java</span><br><br><br>
