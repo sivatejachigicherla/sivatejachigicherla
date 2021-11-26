@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there, I'm Chigicherla Siva Teja! 👋</h1>
-<h3 align="center"> Machine Learning ● Deep Learning ● Virtual Reality </h3>
+<h3 align="center"> Unreal Engine ● Unity ● Virtual Reality ● Agumented Reality</h3>
 
 
 <br/>
